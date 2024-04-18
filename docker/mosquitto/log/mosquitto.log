@@ -1,0 +1,10 @@
+1713399853: mosquitto version 2.0.18 starting
+1713399853: Config loaded from /mosquitto/config/mosquitto.conf.
+1713399853: Opening ipv4 listen socket on port 1883.
+1713399853: Opening ipv6 listen socket on port 1883.
+1713399853: mosquitto version 2.0.18 running
+1713399857: New connection from 192.168.208.3:56909 on port 1883.
+1713399857: New client connected from 192.168.208.3:56909 as auto-79F4E129-3532-0BC3-2570-5A63DC7A7BE9 (p2, c1, k60).
+1713400342: Client auto-79F4E129-3532-0BC3-2570-5A63DC7A7BE9 closed its connection.
+1713400343: mosquitto version 2.0.18 terminating
+1713400343: Saving in-memory database to /mosquitto/data//mosquitto.db.
